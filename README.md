@@ -18,3 +18,8 @@
 
 [![](https://raw.githubusercontent.com/nori-ut3g/nori-ut3g/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nori-ut3g/nori-ut3g/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nori-ut3g/nori-ut3g/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+### Data
+- [職務経歴書](https://nori-ut3g.github.io/CV/)
+- [ポートフォリオ](https://nori-ut3g.github.io/CV/Portfolios)
+
