@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="left"> 
   <a href="https://github.com/nori-ut3g/nori-ut3g/">
     <img src="https://komarev.com/ghpvc/?username=nori-ut3g" alt="nori-ut3g" />
