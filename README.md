@@ -18,7 +18,5 @@
   </a>
 </p>
 
-[![nori-ut3g's GitHub stats](https://github-readme-stats.vercel.app/api?username=nori-ut3g)](https://github.com/nori-ut3g/github-readme-stats)
-
 [![](https://raw.githubusercontent.com/nori-ut3g/nori-ut3g/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nori-ut3g/nori-ut3g/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nori-ut3g/nori-ut3g/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
