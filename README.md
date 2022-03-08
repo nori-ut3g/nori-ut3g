@@ -17,3 +17,5 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/nori-ut3g/contributions.svg" />
   </a>
 </p>
+
+[![nori-ut3g's GitHub stats](https://github-readme-stats.vercel.app/api?username=nori-ut3g)](https://github.com/nori-ut3g/github-readme-stats)
